@@ -1,0 +1,22 @@
+/* Cover*/
+
+.cover {
+    height: 55px;
+    width: 100%;
+    background-image: url(/images/contato.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.cover-container {
+    position: relative;
+}
+
+.cover-box {
+    position: absolute;
+    right: 0;
+    bottom: 115px;
+
+}
